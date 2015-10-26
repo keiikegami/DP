@@ -3,7 +3,7 @@
 #Dynamic programming
 
 ##About DP
-[reference](https://drive.google.com/file/d/0BxFDo4BybTIzRU9aLU5nRXRkclk/view?usp=sharing)
+[学習の手引き](https://drive.google.com/file/d/0BxFDo4BybTIzRU9aLU5nRXRkclk/view?usp=sharing)
 
 ##Introduction to DP
 quant econ : [shortest paths](http://quant-econ.net/py/short_path.html)
