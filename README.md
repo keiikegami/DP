@@ -10,7 +10,7 @@ quant econ : [shortest paths](http://quant-econ.net/py/short_path.html)
 
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/shortest_path_problem%20(introduction%20to%20DP).ipynb)
 
-##Infinite Nonstochastic DP
+##Infinite Nonstochastic DP (continuous)
 quant econ : [Infinite Horizon Dynamic Programming](http://quant-econ.net/py/dp_intro.html#fvi-alg-py)
 
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/inifinite_nonstochastic_DP.ipynb)
