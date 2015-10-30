@@ -5,6 +5,11 @@
 ##About DP
 [学習の手引き](https://drive.google.com/file/d/0BxFDo4BybTIzRU9aLU5nRXRkclk/view?usp=sharing)
 
+## Preparation for DP __Markov Chain__
+quant econ : [Markov Chain](http://quant-econ.net/py/finite_markov.html)
+
+[ipython notebook](https://github.com/keiikegami/DP/blob/master/Finite%20Markov%20Chain.ipynb)
+
 ##Introduction to DP
 quant econ : [shortest paths](http://quant-econ.net/py/short_path.html)
 
