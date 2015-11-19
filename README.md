@@ -26,3 +26,6 @@ key word: [interpolation](https://en.wikipedia.org/wiki/Interpolation)
 quant econ : [Discrete Dynamic Programming](http://quant-econ.net/py/discrete_dp.html)
 
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/discrete%20dynamic%20programming.ipynb)
+
+##Linear Programming Approach
+[ipython notebook]()
