@@ -31,5 +31,5 @@ quant econ : [Discrete Dynamic Programming](http://quant-econ.net/py/discrete_dp
 
 ##Exact Linear Programming Approach
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/LP%20approach%20.ipynb)
+
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/LP_approach_2.ipynb)
-時間の比較はここではあまり意味がないので気にしないでください
