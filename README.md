@@ -19,6 +19,7 @@ quant econ : [shortest paths](http://quant-econ.net/py/short_path.html)
 quant econ : [Infinite Horizon Dynamic Programming](http://quant-econ.net/py/dp_intro.html#fvi-alg-py)
 
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/inifinite_nonstochastic_DP.ipynb)
+
 [速度検証](https://github.com/keiikegami/DP/blob/master/Continuous%20DP%20%E9%80%9F%E5%BA%A6%E6%A4%9C%E8%A8%BC.ipynb)
 
 key word: [interpolation](https://en.wikipedia.org/wiki/Interpolation)
