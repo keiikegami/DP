@@ -34,3 +34,5 @@ quant econ : [Discrete Dynamic Programming](http://quant-econ.net/py/discrete_dp
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/LP%20approach%20.ipynb)
 
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/LP_approach_2.ipynb)
+
+[LP Approach](https://github.com/keiikegami/DP/blob/master/LP_approach_3.ipynb)
