@@ -31,8 +31,7 @@ quant econ : [Discrete Dynamic Programming](http://quant-econ.net/py/discrete_dp
 [ipython notebook](https://github.com/keiikegami/DP/blob/master/discrete%20dynamic%20programming.ipynb)
 
 ##Exact Linear Programming Approach
-[ipython notebook](https://github.com/keiikegami/DP/blob/master/LP%20approach%20.ipynb)
 
-[ipython notebook](https://github.com/keiikegami/DP/blob/master/LP_approach_2.ipynb)
+[GUrobi Setting (solver : Gurobi)](https://github.com/keiikegami/DP/blob/master/Gurobi_approach.ipynb)
 
-[LP Approach](https://github.com/keiikegami/DP/blob/master/LP_approach_3.ipynb)
+[Pulp Setting (solver : Gurobi)](https://github.com/keiikegami/DP/blob/master/pulp(method%20%3D%20Gurobi)_approach.ipynb)
