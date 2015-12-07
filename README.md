@@ -35,3 +35,5 @@ quant econ : [Discrete Dynamic Programming](http://quant-econ.net/py/discrete_dp
 [GUrobi Setting (solver : Gurobi)](https://github.com/keiikegami/DP/blob/master/Gurobi_approach.ipynb)
 
 [Pulp Setting (solver : Gurobi)](https://github.com/keiikegami/DP/blob/master/pulp(method%20%3D%20Gurobi)_approach.ipynb)
+
+[discere 速度検証](https://github.com/keiikegami/DP/blob/master/discrete_%E9%80%9F%E5%BA%A6%E6%A4%9C%E8%A8%BC.ipynb)
